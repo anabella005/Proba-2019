@@ -1,0 +1,11 @@
+  
+bookdown::gitbook:
+  css: style.css
+  config:
+    toc:
+      before: |
+        <li><a href="./">Proba-2019</a></li>
+      after: |
+        <li><a href="https://github.com/anabella005/Proba-2019" target="blank">Published with bookdown</a></li>
+        edit: https://github.com/anabella005/Proba-2019/edit/master/%s
+        
